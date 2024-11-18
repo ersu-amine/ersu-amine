@@ -14,7 +14,5 @@ Skills: Java, Selenium,
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ersu-amine&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ersu-amine)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ersu-amine)  
 
