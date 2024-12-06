@@ -7,7 +7,6 @@ I made this project just for practice
 Skills: Java, Selenium, 
 
 - 🔭 I’m currently working on improving my skills 
-- 🌱 I’m currently learning Jmeter 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ersu-amine)  
