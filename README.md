@@ -5,7 +5,7 @@
 
 ### Feel free to explore my projects or reach out if you want to chat about tech, creativity, or anything in between!
 
-![I am ](https://raw.githubusercontent.com/ersu-amine/ersu-amine/refs/heads/main/Designer%20(3).png)
+<img src = "https://raw.githubusercontent.com/ersu-amine/ersu-amine/refs/heads/main/pikachu.png" width ='350'>
 
 
 
