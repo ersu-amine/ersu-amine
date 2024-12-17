@@ -1,11 +1,11 @@
 # Hey there! 👋
 ## I’m an SDET who’s passionate about automation, creativity, and continuous learning. 
 
-### When I’m not working, you’ll usually find me behind a camera, painting, practicing calligraphy, or scrapbooking—creative hobbies keep me inspired and energized.
+When I’m not working, you’ll usually find me behind a camera, painting, practicing calligraphy, or scrapbooking—creative hobbies keep me inspired and energized.
 
-### Feel free to explore my projects or reach out if you want to chat about tech, creativity, or anything in between!
+Feel free to explore my projects or reach out if you want to chat about tech, creativity, or anything in between!
 
-<img src = "https://raw.githubusercontent.com/ersu-amine/ersu-amine/refs/heads/main/pikachu.png" width ='350'>
+<img src = "https://raw.githubusercontent.com/ersu-amine/ersu-amine/refs/heads/main/pikachu.png" width ='200'>
 
 
 
