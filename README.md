@@ -1,12 +1,32 @@
 # Hey there! 👋
-## I’m an SDET who’s passionate about automation, creativity, and continuous learning. 
-
-When I’m not working, you’ll usually find me behind a camera, painting, practicing calligraphy, or scrapbooking—creative hobbies keep me inspired and energized.
+## I’m Amine, an SDET who’s passionate about automation, creativity, and continuous learning. 
 
 Feel free to explore my projects or reach out if you want to chat about tech, creativity, or anything in between!
 
-<img src = "https://raw.githubusercontent.com/ersu-amine/ersu-amine/refs/heads/main/pikachu.png" width ='200'>
+### 🌱 **What I’m Learning**  
+- 🌐 **Playwright with JavaScript**: Diving into modern web automation.  
+- 📱 **Mobile Testing**: Enhancing my skills with **Appium** for Android and iOS.  
 
+---
+
+### ⚙️ **My Tech Stack**  
+- **Programming**: Java, JavaScript (learning)  
+- **Testing Tools**: Selenium WebDriver, Cucumber, RestAssured, Appium, Playwright (learning)  
+- **Frameworks**: BDD (Cucumber), Page Object Model  
+- **DevOps Tools**: Jenkins, Git, Selenium Grid  
+- **Other Skills**: SQL, Postman, JIRA 
+
+---
+
+### 💡 **About Me**  
+- 🌟 **Values**: Continuous learning, adaptability, and a passion for problem-solving.  
+- ☕ **Coffee Enthusiast**: A day isn’t complete without a warm cup of coffee.  
+
+---
+
+### 🌍 **Let’s Connect**  
+- 📧 ersu.amine@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ersuamine/) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ersu-amine)  
