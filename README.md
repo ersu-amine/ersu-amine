@@ -1,13 +1,13 @@
 # Hey there! 👋
 ### I’m Amine, an SDET who’s passionate about creativity, and continuous learning. 
 
-<img src="https://raw.githubusercontent.com/ersu-amine/ersu-amine/refs/heads/main/Designer%20(7).jpeg" width = "200">
+<img src="https://banner2.cleanpng.com/lnd/20241025/ef/1fad641a27016abfcdd01b4605418a.webp" width = "250">
 
 Feel free to explore my projects or reach out if you want to chat.
 
 ### 🌱 **What I’m Learning**  
 - 🌐 **Playwright with JavaScript**: Diving into modern web automation.  
-- 📱 **Mobile Testing**: Honinh my **Appium** skills with practice projects.  
+- 📱 **Mobile Testing**: Refining my **Appium** expertise with practice projects ([Appium-Cucumber-BDD](https://github.com/ersu-amine/appium-bdd-framework)).  
 
 ---
 
@@ -21,8 +21,8 @@ Feel free to explore my projects or reach out if you want to chat.
 ---
 
 ### 💡 **About Me**  
-- 🌟 **Values**: Continuous learning, adaptability, and a passion for problem-solving.  
-- ☕ **Coffee Enthusiast**: A day isn’t complete without a warm cup of coffee.  
+- 🌟 **Values**:Lifelong learning, adaptability, and a passion for solving challenges.  
+- ☕ **Coffee Lover**: Every day starts and flows better with a warm cup of coffee.  
 
 ---
 
