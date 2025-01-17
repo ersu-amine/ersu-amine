@@ -1,7 +1,7 @@
 # Hey there! 👋
 ### I’m Amine, an SDET who’s passionate about creativity, and continuous learning. 
 
-<img src="https://banner2.cleanpng.com/lnd/20241025/ef/1fad641a27016abfcdd01b4605418a.webp" width = "250">
+<img src="https://i.pinimg.com/736x/0a/5a/5e/0a5a5e16d04345fdbde777ae2492dd98.jpg" width = "400">
 
 Feel free to explore my projects or reach out if you want to chat.
 
