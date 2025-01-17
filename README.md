@@ -1,7 +1,11 @@
 # Hey there! 👋
 ### I’m Amine, an SDET who’s passionate about creativity, and continuous learning. 
 
-<img src="https://i.pinimg.com/736x/0a/5a/5e/0a5a5e16d04345fdbde777ae2492dd98.jpg" width = "400">
+
+
+<p align="center">
+<img src="https://github.com/ersu-amine/ersu-amine/blob/main/Happy%20Pokemon%20Sticker%20by%20Poke%CC%81mon_JPN.gif" width = "300">
+</p>
 
 Feel free to explore my projects or reach out if you want to chat.
 
@@ -15,7 +19,7 @@ Feel free to explore my projects or reach out if you want to chat.
 - **Programming**: Java, JavaScript (learning)  
 - **Testing Tools**: Selenium WebDriver, Cucumber, RestAssured, Appium, Playwright (learning)  
 - **Frameworks**: BDD (Cucumber), Page Object Model  
-- **DevOps Tools**: Jenkins, Git, Selenium Grid  
+- **DevOps Tools**: Jenkins, Git  
 - **Other Skills**: SQL, Postman, JIRA 
 
 ---
