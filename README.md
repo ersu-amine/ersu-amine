@@ -3,9 +3,9 @@
 
 
 
-<p align="center">
+<!-- <p align="center"> </p>--> 
 <img src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" width = "390">
-</p>
+
 
 
 ### 🌱 **What I’m Learning**  
