@@ -4,10 +4,9 @@
 
 
 <p align="center">
-<img src="https://github.com/ersu-amine/ersu-amine/blob/main/Happy%20Pokemon%20Sticker%20by%20Poke%CC%81mon_JPN.gif" width = "300">
+<img src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" width = "390">
 </p>
 
-Feel free to explore my projects or reach out if you want to chat.
 
 ### 🌱 **What I’m Learning**  
 - 🌐 **Playwright with JavaScript**: Diving into modern web automation.  
@@ -16,8 +15,8 @@ Feel free to explore my projects or reach out if you want to chat.
 ---
 
 ### ⚙️ **My Tech Stack**  
-- **Programming**: Java, JavaScript (learning)  
-- **Testing Tools**: Selenium WebDriver, Cucumber, RestAssured, Appium, Playwright (learning)  
+- **Programming**: Java 
+- **Testing Tools**: Selenium WebDriver, Cucumber, RestAssured, Appium
 - **Frameworks**: BDD (Cucumber), Page Object Model  
 - **DevOps Tools**: Jenkins, Git  
 - **Other Skills**: SQL, Postman, JIRA 
