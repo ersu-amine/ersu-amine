@@ -1,10 +1,10 @@
-# Hey there! 👋
-### I’m Amine, an SDET who’s passionate about creativity, and continuous learning. 
+
+### I’m Amine 👋
 
 
 
 <!-- <p align="center"> </p>--> 
-<img src="https://i.pinimg.com/originals/55/6f/e5/556fe5b7efb8608bd8d267fa11bd44cb.gif" width = "390">
+<img src="https://i.pinimg.com/736x/b0/28/a7/b028a75bf20580b796617d11bd7bb915.jpg" width = "390">
 
 
 
