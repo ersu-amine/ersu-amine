@@ -4,14 +4,12 @@
 
 
 <!-- <p align="center"> </p>--> 
-<img src="https://i.pinimg.com/736x/b0/28/a7/b028a75bf20580b796617d11bd7bb915.jpg" width = "390">
+<img src="https://i.pinimg.com/736x/84/36/19/8436193972acab47b8101f2efe70c7c3.jpg" width = "390">
 
 
 
 ### 🌱 **What I’m Learning**  
 - 🌐 **Playwright with JavaScript**: Diving into modern web automation.  
-- 📱 **Mobile Testing**: Refining my **Appium** expertise with practice projects ([Appium-Cucumber-BDD](https://github.com/ersu-amine/appium-bdd-framework)).  
-
 ---
 
 ### ⚙️ **My Tech Stack**  
