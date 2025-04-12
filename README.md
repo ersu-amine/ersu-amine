@@ -9,11 +9,13 @@
 
 
 ### 🌱 **What I’m Learning**  
-- 🌐 **Playwright with JavaScript**: Diving into modern web automation.  
+- 🌐 **Playwright with JavaScript**: Diving into modern web automation. 
+- ☕ **Playwright with Java**: Experimenting Playwright with Java. Why not.
 ---
 
 ### ⚙️ **My Tech Stack**  
-- **Programming**: Java 
+- **Programming**: Java, JavaScript
+- **IDEs**: IntelliJ, VSCode
 - **Testing Tools**: Selenium WebDriver, Cucumber, RestAssured, Appium
 - **Frameworks**: BDD (Cucumber), Page Object Model  
 - **DevOps Tools**: Jenkins, Git  
