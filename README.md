@@ -4,13 +4,15 @@
 
 
 <!-- <p align="center"> </p>--> 
-<img src="https://i.pinimg.com/736x/84/36/19/8436193972acab47b8101f2efe70c7c3.jpg" width = "390">
+<img src="https://i.pinimg.com/736x/d6/fb/2f/d6fb2fe7ff271cf631269dd5f58ee41b.jpg" width = "390">
 
 
 
 ### 🌱 **What I’m Learning**  
+-  **Working towards obtaining ISTQB CTFL certification**
 - 🌐 **Playwright with JavaScript**: Diving into modern web automation. 
-- ☕ **Playwright with Java**: Experimenting Playwright with Java. Why not.
+- ☕ **Playwright with Java**: Experimenting Playwright with Java.
+
 ---
 
 ### ⚙️ **My Tech Stack**  
