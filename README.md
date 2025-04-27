@@ -9,9 +9,8 @@
 
 
 ### 🌱 **What I’m Learning**  
--  **Working towards obtaining ISTQB CTFL certification**
-- 🌐 **Playwright with JavaScript**: Diving into modern web automation. 
-- ☕ **Playwright with Java**: Experimenting Playwright with Java.
+- 🌐 **Playwright with JavaScript**: Curious about the hype.
+- ☕ **Playwright with Java**: Trying playwright with my most comfortable programming language,
 
 ---
 
@@ -25,9 +24,10 @@
 
 ---
 
-### 💡 **About Me**  
-- 🌟 **Values**:Lifelong learning, adaptability, and a passion for solving challenges.  
-- ☕ **Coffee Lover**: Every day starts and flows better with a warm cup of coffee.  
+### ✨ A Few Things About Me
+- 🌟 **Mindset**: Lifelong learner, adaptable, and always eager to take on new challenges. 
+- ☕ **Coffee**: Essential fuel for creativity and focus.
+- 💼 **Approach**: Thoughtful, detail-oriented, and committed to delivering quality work.
 
 ---
 
