@@ -1,12 +1,12 @@
 
-### I’m Amine 👋
+
 
 
 
 <!-- <p align="center"> </p>--> 
-<img src="https://i.pinimg.com/736x/d6/fb/2f/d6fb2fe7ff271cf631269dd5f58ee41b.jpg" width = "390">
+<img src="https://i.pinimg.com/736x/db/0e/96/db0e96c7d5a2af1a25bd6a53170367d3.jpg" width = "390">
 
-
+### I’m Amine 👋
 
 ### 🌱 **What I’m Learning**  
 - 🌐 **Playwright with JavaScript**: Curious about the hype.
