@@ -10,7 +10,6 @@
 
 ### 🌱 **What I’m Learning**  
 - 🌐 **Playwright with JavaScript**: Curious about the hype.
-- ☕ **Playwright with Java**: Trying playwright with my most comfortable programming language,
 
 ---
 
